@@ -5,7 +5,6 @@ Final project for the Object-Oriented Programming course. This is an inventory m
 ## 👥 Team Members
 * Esquer Lara Samantha Mabeth
 * Villanueva Martinez Sergio Gael
-* Morales Guijarro Bryan Miguel
 * Martinez Gamboa Brandon
 * Lara Aviles Claudio Tadeo
 
