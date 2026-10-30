@@ -7,6 +7,7 @@ Final project for the Object-Oriented Programming course. This is an inventory m
 * Villanueva Martinez Sergio Gael
 * Martinez Gamboa Brandon
 * Lara Aviles Claudio Tadeo
+* Sanchez Rodriguez Oscar
 
 ## 🛠️ Prerequisites (Technical Requirements)
 To run this project on a new computer, you will need:
